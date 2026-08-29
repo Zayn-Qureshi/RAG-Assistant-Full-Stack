@@ -1,0 +1,20 @@
+# Versions pinned to patched-minimum releases as of Aug 2026.
+# Run `pip install pip-audit` and `pip-audit` periodically to catch new CVEs.
+requests>=2.32.0
+pypdf>=4.0.0
+streamlit>=1.38.0
+google-generativeai>=0.8.0
+pinecone>=5.0.0
+python-dotenv>=1.0.1
+numpy>=1.26.0
+fastapi>=0.115.8
+uvicorn[standard]>=0.30.0
+pydantic>=2.9.0
+python-multipart>=0.0.26
+rank-bm25>=0.2.2
+sentence-transformers>=3.1.0
+pillow>=10.4.0
+pymupdf>=1.24.10
+easyocr>=1.7.1
+pyjwt>=2.9.0
+bcrypt>=4.2.0
