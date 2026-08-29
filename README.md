@@ -1,4 +1,4 @@
-# Cloud RAG Assistant (Gemini + Pinecone)
+# RAG Assistant full Stack (Gemini + Pinecone)
 
 A production-oriented RAG pipeline using hosted APIs instead of local models —
 Gemini for embeddings/generation, Pinecone for vector storage.
